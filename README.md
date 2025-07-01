@@ -1,0 +1,1 @@
+# gestao-paralelo-3.0
